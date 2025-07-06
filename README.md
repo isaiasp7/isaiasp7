@@ -61,5 +61,5 @@
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/37/5c/0b/375c0ba7dac10f95dadd4aa1cf8df04b.jpg" width="300" alt="imagem de destaque" />
+  <img src="https://i.pinimg.com/736x/37/5c/0b/375c0ba7dac10f95dadd4aa1cf8df04b.jpg"  alt="imagem de destaque" />
 </div>
