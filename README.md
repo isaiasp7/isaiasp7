@@ -52,10 +52,6 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
 <img src="https://raw.githubusercontent.com/isaiasp7/isaiasp7/output/snake.svg"  alt="Snake animation" />
 
 ###
