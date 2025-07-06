@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/isaiasp7/isaiasp7/output/snake.svg" width="600" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/isaiasp7/isaiasp7/output/snake.svg"  alt="Snake animation" />
 
 ###
 
