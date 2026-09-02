@@ -2,7 +2,8 @@
 
 `Internet Systems Student | Software Developer`
 
-I'm pursuing a degree in Internet Systems at IFSertãoPE. My studies are focused on algorithms, computing fundamentals, and the development of web and mobile applications, while I build practical skills with Java, Spring, React Native, Expo, and relational and NoSQL databases.
+I am a student of Internet Systems at IFSertãoPE, building my knowledge through hands-on projects and practical software development. I apply concepts from algorithms, software engineering, databases, and web development to create applications and strengthen my problem-solving skills. My current experience includes Java, Spring, React Native, Expo, and relational and NoSQL databases, with a focus on continuously improving my backend and full-stack development skills.
+
 
 ---
 
