@@ -13,14 +13,19 @@
 </div>
 
 ###
+ 
+
+
+<h3 align="left">🔥 Contribution Streak</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaiasp7.isaiasp7&" width="80" alt="contador de visitantes" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=isaiasp7&amp;theme=dark" alt="Sequência de contribuições de Isaias" />
+  </a>
 </div>
 
-###
 
-<h1 align="center">Whats up 🐧</h1>
+
 
 ###
 
@@ -52,6 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="50" alt="bootstrap logo" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="50" alt="mysql logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="spring logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="postgresql logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="mongodb logo" />
 </div>
 
 ###
