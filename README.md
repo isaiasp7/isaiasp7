@@ -2,8 +2,7 @@
 
 `Internet Systems Student | Software Developer`
 
-I am a student of Internet Systems at IFSertãoPE, building my knowledge through hands-on projects and practical software development. I apply concepts from algorithms, software engineering, databases, and web development to create applications and strengthen my problem-solving skills. My current experience includes Java, Spring, React Native, Expo, and relational and NoSQL databases, with a focus on continuously improving my backend and full-stack development skills.
-
+I am a student of Internet Systems at IFSertãoPE, building a strong foundation in software development through hands-on projects and continuous learning. I turn academic concepts into practical solutions, strengthening my experience in backend, web, and mobile development while improving my problem-solving and software engineering skills.
 
 ---
 
